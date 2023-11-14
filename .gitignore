@@ -1,0 +1,16 @@
+/build
+.cache-loader
+# Dependencies
+.docusaurus
+.DS_Store
+.env.development.local
+.env.local
+.env.production.local
+.env.test.local
+# Generated files
+# Misc
+/node_modules
+npm-debug.log*
+# Production
+yarn-debug.log*
+yarn-error.log*
